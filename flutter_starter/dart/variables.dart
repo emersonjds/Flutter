@@ -12,7 +12,7 @@ void main() {
 
   var value = 1;
   print(value);
-  value = "Daniel";
+  // value = "Daniel";
   print(value);
 
   dynamic value2 = 1;
