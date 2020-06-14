@@ -19,5 +19,7 @@ void main() {
   print(value2);
   value2 = "Testing";
   print(value2);
-
+  dynamic value3 = "another topic";
+  value3 = 2;
+  print(value3);
 }
